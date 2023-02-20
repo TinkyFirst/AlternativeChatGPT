@@ -1,0 +1,35 @@
+#chat-window {
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  #output {
+    border: 1px solid #ccc;
+    height: 200px;
+    overflow: auto;
+    padding: 10px;
+  }
+  
+  
+  #input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  #send-button {
+    background-color: #4CAF50; /* Зелений колір фону */
+    border: none; /* Видаляємо межу кнопки */
+    color: white; /* Білий колір тексту */
+    padding: 14px 20px; /* Додаємо відступи в тексті */
+    text-align: center; /* Вирівнюємо текст по центру */
+    text-decoration: none; /* Видаляємо підкреслення тексту */
+    display: inline-block; /* Робимо кнопку блочним елементом */
+    font-size: 16px; /* Розмір шрифту */
+    margin: 10px 0; /* Додаємо відступи зверху та знизу */
+    cursor: pointer; /* Міняємо курсор на вказівник при наведенні на кнопку */
+    border-radius: 5px; /* Закруглюємо кути кнопки */
+  }
+
+  /* Робимо кнопки при наведенник при наведенник при наведенник при наведенник при наведенник при наведенн  62  */  /*

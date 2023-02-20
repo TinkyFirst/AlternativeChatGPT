@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "ChatGPT Extension",
+  "version": "1.0",
+  "description": "This extension provides text-to-speech functionality for ChatGPT responses.",
+  "browser_action": {
+    
+    "default_title": "ChatGPT Extension",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs",
+    "storage",
+    "https://api.openai.com/*"
+  ]
+}
